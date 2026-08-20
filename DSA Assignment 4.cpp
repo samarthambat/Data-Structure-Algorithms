@@ -85,8 +85,7 @@ int main()
     int choice, value;  
   
     do  
-    {  
-        cout << "om kutwal sy-12 roll no.70"; 
+    {   
         cout << "\n===== Library Book Management =====\n";  
         cout << "1. Insert at Beginning\n";  
         cout << "2. Insert at End\n";  

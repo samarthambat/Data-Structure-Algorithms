@@ -67,7 +67,6 @@ int main() {
     int choice, value;
 
     do {
-        cout << "om kutwal sy-12 roll no.70";
         cout << "\n===== University Library Catalog =====\n";
         cout << "1. Insert Book ID\n";
         cout << "2. Inorder Traversal\n";

@@ -91,7 +91,7 @@ int main()
  
     do 
     { 
-        cout << "om kutwal sy_12 roll 70 asg-2"; 
+        cout << "Samarth Ambat sy_12 roll 44 asg-2"; 
         cout << "\n===== BOOK SHELF USING STACK =====" << endl; 
         cout << "1. Insert Book" << endl; 
         cout << "2. Remove Book" << endl; 

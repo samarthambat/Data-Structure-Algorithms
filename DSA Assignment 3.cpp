@@ -60,7 +60,7 @@ int main()
    int choice, customer; 
    do 
    { 
-       cout << " om kutwal sy-12 roll no=70"; 
+       cout << " Samarth Ambat SY-12 Roll no.44"; 
        cout << "\n===== Ticket Booking Queue ====="; 
        cout << "\n1. Enqueue Customer"; 
        cout << "\n2. Dequeue Customer"; 
